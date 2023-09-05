@@ -5,7 +5,7 @@
 5) Relational Operator
 6) Comparing a number and String
 7) Comparing a equals 
-8) Locical operators
+8) Logical operators
 9) Conditional Statement
 10) Ternary operator
 11) Template literal
